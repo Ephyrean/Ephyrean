@@ -25,8 +25,6 @@ I design and build **scalable backend systems**, modernise legacy infrastructure
 - Balanced a dual career as an **engineer + opera performer**, thriving under high-pressure environments  <br>
 ## 🔗 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-akritides/)  
-- 📧 [Email](mailto:constantine.akritides@gmail.com)  
-
-
+- 📧 [Email](mailto:constantine.akritides@gmail.com)  <br><br>
 ✨ _I believe in writing clean, testable code, architecting for growth, and approaching engineering with both precision and creativity._  
 
