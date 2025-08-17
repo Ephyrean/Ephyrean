@@ -39,7 +39,7 @@ I design and build **scalable backend systems**, modernise legacy infrastructure
 
 ## 🔗 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-akritides/)  
-- 📧 [Email](mailto:konstantinos.akritides@gmail.com)  
+- 📧 [Email](mailto:constantine.akritides@gmail.com)  
 - 🎶 Opera Clips _(optional link if you’d like to showcase this side)_  
 
 ---
